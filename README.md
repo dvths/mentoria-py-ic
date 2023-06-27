@@ -5,7 +5,11 @@ O repositório tem o objetivo de auxiliar na fixação dos conteúdos propostos 
 Ele está dividido da seguinte forma:
 
 - Os gabaritos dos exercícios se encontram na branch "Main"
-- Os exercícios serão adicionados das branchs apropriadas conforme o conteúdo das semanas do curso
+- Os exercícios serão adicionados das branchs apropriadas conforme o conteúdo das semanas do curso:
+  - Para baixar a branch da semana basta acessar a lista de branchs do repositório, selecionar
+    a semana desejada e fazer o clone para seu ambiente local.
+
+    ![Imagem](./img/img.png) 
 
 Para selecionar uma branch basta selecioná-la na lista de branchs e cloná-la ou fazer o fork do
 repositório.
